@@ -18,8 +18,7 @@ This project is a **Country Details Website**  that provides detailed informatio
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/country-details.git
-   ```
+ git clone https://github.com/RahulShesh/rest-countries-api-with-color-theme-switcher-master.git   ```
 2. Open the project folder:
    ```sh
    cd country-details
